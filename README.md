@@ -3,25 +3,16 @@
 **Agenda
 
  1) Abstract
- Recently, Ecommerce has Witnessed Rapid Development. As a Result, Online Purchasing has
-grown, and that has led to Growth in Online Customer Reviews of Products. They often want to
-know intime what consumers and the public think of their products and services. However, it is
-not realistic to manually read every post on the website and extract useful viewpoint information
-from it. Therefore, models able to predict the user sentiment from the text review or user
-experience from the reviews are critically important. Sentiment analysis allows large-scale
-processing of data in an efficient and cost-effective manner. . This thesis considers the problem
-of classifying reviews by their overall semantic (positive , extremely positive, negative, extremely
-negative and neutral). We used dataset of the Amazon iphone 13 reviews, and then built a model
-to predict the sentiment of the comments or reviews given by using Python and Vader (which
-is a rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in
-social media, and works well on texts
+ 
 
  2)Case Study
+  
   Scrape the reviews of Amazon Product
   Using Natural Language Processing (NLP) do the sentiment analysis of the product
 
   3)Scraping Data
-	Website used – Amazon.in
+   
+   Website used – Amazon.in
   Link of the product used -
 https://www.amazon.in/Apple-iPhone-13-128GB-Starlight/product-reviews/B09G9D8KRQ/ref=cm_cr_a
 rp_d_viewopt_sr?ie=UTF8&reviewerType=all_reviews&filterByStar=five_star&pageNumber=1
